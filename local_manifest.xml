@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/phoenix" remote="github" name="AlphaDroid-devices/device_xiaomi_phoenix" revision="alpha-13" />
+  <project path="vendor/xiaomi/phoenix" remote="github" name="jaymistry258/vendor_xiaomi_phoenix" revision="13" />
+  <project path="kernel/xiaomi/phoenix" remote="github" name="jaymistry258/kernel_xiaomi_phoenix" revision="alza-su" />
+  <project path="device/xiaomi/phoenix-miuicamera" remote="github" name="jaymistry258/device_xiaomi_phoenix-miuicamera" revision="thirteen" />
+  <project path="vendor/xiaomi/phoenix-miuicamera" remote="gitlab" name="jaymistry258/vendor-xiaomi-phoenix-miuicamera" revision="leica" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" name="kdrag0n/proton-clang" revision="master" clone-depth="1" />
+</manifest>
